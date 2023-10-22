@@ -4,3 +4,4 @@ build:
 # delete previous build
 remove:
 	@ rm bin/bolt
+	@ rm -rf bin/.bolt
